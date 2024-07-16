@@ -1,0 +1,1 @@
+import{aM as s,aN as a}from"./index-BA19eJmX.js";const f=t=>s.request("post",a("admin/staff/list"),{data:t}),r=t=>s.request("post",a("admin/staff/save"),{data:t}),n=t=>s.request("post",a("admin/staff/delete"),{data:t});export{n as a,f as g,r as s};

@@ -1,0 +1,1 @@
+import{aM as t,aN as s}from"./index-BA19eJmX.js";const a=e=>t.request("post",s("admin/menu/index"),{data:e}),r=e=>t.request("post",s("admin/menu/save"),{data:e}),u=e=>t.request("post",s("admin/menu/delete"),{data:e});export{u as a,a as g,r as m};
