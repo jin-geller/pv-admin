@@ -2,7 +2,7 @@
 
 #### Description
 
-PvAdmin 是一款基于 PHP + Vue 开发，完全开源免费的后台管理系统。
+PvAdmin is a fully open-source and free backend management system developed based on PHP + Vue.
 
 #### Software Architecture
 Software architecture description
